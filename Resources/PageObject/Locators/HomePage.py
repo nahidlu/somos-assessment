@@ -1,0 +1,6 @@
+FileUploadButton = "id:fileUpload"
+File = "id:file"
+SubmitButton = "id:btnSubmit"
+MessageAlert = "id:alert"
+FileDownloadLink = "xpath://a[contains(text(),'Download')]"
+TopFileNameInTheTable = "xpath://*[@id='tblFileUploadHistory']/tbody/tr[0]/td[2]"
